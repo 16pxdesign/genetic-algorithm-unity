@@ -6,7 +6,7 @@ The game is that the player in the maze must find the shortest path to the goal.
 ## Preview
 ### Implemented mazes
 
-![Mazes jpg](./Images/mazes.png)
+![Mazes jpg](./Images/mazes.PNG)
 
 ### Finding goal cube with basic maze
 
